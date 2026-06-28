@@ -51,7 +51,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 @TeleOp(name = "StarterBot Chassis Teleop", group = "StarterBot")
 //@Disabled
-public class StarterBotChassisTeleop extends OpMode {
+public class VVBotChassisTeleop extends OpMode {
 
     // Declare OpMode members.
     private DcMotor leftDrive = null;
